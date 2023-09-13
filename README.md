@@ -1,2 +1,3 @@
 # apna-college
-first
+first repos
+Author-Shripad
